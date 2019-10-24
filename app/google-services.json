@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666766843422",
+    "firebase_url": "https://hi-senpai.firebaseio.com",
+    "project_id": "hi-senpai",
+    "storage_bucket": "hi-senpai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666766843422:android:807a3fca8c7d6f00",
+        "android_client_info": {
+          "package_name": "com.example.pc.hisenpai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666766843422-oihkmdg11qrejv5ucklsdej61r09b6ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.hisenpai",
+            "certificate_hash": "5efe720a3fc0a51303553db156b79023c73ab2e9"
+          }
+        },
+        {
+          "client_id": "666766843422-0buccbcsmbdl2qsm863ija556egafcs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbi-KvXE-NmgnuU6VhNoDrgktSk8TnZ9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666766843422-0buccbcsmbdl2qsm863ija556egafcs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
